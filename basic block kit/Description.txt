@@ -1,0 +1,14 @@
+basic kit
+this is a basic kit for developers
+ASSIGN;Assigns variable to return.;variable;YES
+ADD;return the sum of p1 and p2;p1,p2;YES
+SUB;Returns the of P1 - P2;p1,p2;YES
+GREATER;Returns 'True' if P1>P2, otherwise 'False';p1,p2;YES
+MUL;Returns the result of P1 * P2;p1,p2;YES
+DIV;Returns the result of P1 / P2;p1,p2;YES
+GREATEREQUAL;Returns ¡®True¡¯ if P1 >= P2, otherwise ¡®False¡¯;p1,p2;YES
+MOD;Returns the result of P1 mod P2;p1,p2;YES
+LESS;Returns ¡®True¡¯ if P1 < P2, otherwise ¡®False¡¯;p1,p2;YES
+LESSEQUAL;Returns ¡®True¡¯ if P1 <= P2, otherwise ¡®False¡¯;p1,p2;YES
+EQUAL;Returns ¡®True¡¯ if P1 = P2, otherwise ¡®False¡¯;p1,p2;YES
+PRINT;Print text into an invoked terminal;text;NO

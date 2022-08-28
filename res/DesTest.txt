@@ -1,0 +1,4 @@
+Basic Kit
+This is a test block kit
+ADD;Addition;P1,P2;YES
+SUB;SUBSTRACTION;P1,P2;YES
